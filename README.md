@@ -1,3 +1,5 @@
+TODO - visual studio extension 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/dark_mode_logo.png">
   <source media="(prefers-color-scheme: light)" srcset="img/light_mode_logo.png">
